@@ -55,9 +55,15 @@ We do not receive that information, and we have no way to connect it to you.
   [policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites).
 - You can reset or delete your Advertising ID, or turn off ad personalisation
   entirely, in **Settings → Privacy → Ads** on your phone.
-- If you are in the UK or the EEA, the app asks for your consent before it
-  requests its first ad, using Google's own consent form. Declining does not
-  switch the ads off; it makes them non-personalised.
+- In the UK, the EEA, Switzerland and anywhere else the law requires it, the
+  app asks for your consent before it requests a single ad, using Google's own
+  consent form. Declining does not switch the ads off; it makes them
+  non-personalised. **No ad is requested while consent is withheld.**
+- In US states with privacy laws, such as California, ads may use this
+  information unless you opt out.
+- Either way, **Settings → Ad privacy choices** in the app reopens that form so
+  you can change your mind, including choosing not to have your data sold or
+  shared. The entry appears wherever the law gives you that right.
 
 ## What else the app keeps on your phone
 
