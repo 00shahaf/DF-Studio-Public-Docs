@@ -9,6 +9,7 @@ is the page the store is given.
 | App | Document | Address |
 | --- | --- | --- |
 | Fart Box | Privacy policy | `fart-box/` |
+| I Parked Here! | Privacy policy | `i-parked-here/` |
 
 The markdown beside each page is the same text, kept for reading and editing.
 The page is what the store sees.
