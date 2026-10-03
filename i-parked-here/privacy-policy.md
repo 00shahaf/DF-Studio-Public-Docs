@@ -1,6 +1,6 @@
 # I Parked Here! — Privacy Policy
 
-**Last updated: 2 October 2026**
+**Last updated: 3 October 2026**
 
 ## In short
 
@@ -58,5 +58,5 @@ If this policy changes, we will update it here and in the app, and change the da
 
 ## Contact
 
-Questions or requests: [dumpsterfirestudio.art@gmail.com](mailto:dumpsterfirestudio.art@gmail.com)
+Questions, requests or feedback (for example a mistake in a translation): [dumpsterfirestudio.art@gmail.com](mailto:dumpsterfirestudio.art@gmail.com). If you write to us, we use your email address and message only to reply, and delete them once they are no longer needed.
 
