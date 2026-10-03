@@ -22,11 +22,15 @@ Only one parking spot is ever kept: its map position and accuracy, the air-press
 
 It is deleted when you find your car (by tapping "Found it!", or when the app notices you are back at the car; "Undo" can bring it back for a few seconds), and also if you clear the app's data or uninstall it.
 
+For achievements, the app also keeps a count of how many times you have found your car, and which achievement it showed last. These are only numbers, with no places or times, kept in the same private storage until you clear the app's data or uninstall it.
+
 ## What leaves your phone
 
 Your parking spot and your GPS location never leave your phone. To draw the map, the app downloads map images ("tiles") from OpenStreetMap's tile servers, run by the OpenStreetMap Foundation, and the Leaflet map library from the unpkg.com service. As with visiting any website, those services receive your phone's IP address and which map tiles are requested, which reveals the general area being shown on the map. Their own privacy policies apply, for example <https://osmfoundation.org/wiki/Privacy_Policy>.
 
 The app contains no analytics or crash-reporting tools of its own. Advertising is the only other thing that talks to the internet; see the next section.
+
+If you tap "Share" on an achievement, the app makes a picture of it and hands the picture and a short message (with a link to the app's store page) to the app you choose, such as WhatsApp or Facebook. Nothing is sent unless you choose to share it, and it goes only where you send it; that app's own privacy policy then applies.
 
 ## Advertising
 
