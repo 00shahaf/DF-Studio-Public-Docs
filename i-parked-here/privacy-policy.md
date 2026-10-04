@@ -13,12 +13,11 @@ I Parked Here! is made by an independent developer. You can reach us at [dumpste
 ## What the app uses, and why
 
 - Your precise location (GPS), only while the app is open on screen. It is used to save where you parked and to guide you back. The app never asks for or uses location in the background.
-- The air-pressure sensor (barometer), to tell whether your car is on a floor above or below you. One reading is saved together with your parking spot.
 - Whether you ticked "Don't show this again" on the tutorial.
 
 ## What is stored, and for how long
 
-Only one parking spot is ever kept: its map position and accuracy, the air-pressure reading and GPS height at that moment, the time it was saved, and whether you have walked away from the car since. It is kept in the app's private storage on your phone.
+Only one parking spot is ever kept: its map position and accuracy, the time it was saved, and the floor number if you tapped one. It is kept in the app's private storage on your phone.
 
 It is deleted when you tap "Found it!" at your car ("Undo" can bring it back for a few seconds), and also if you clear the app's data or uninstall it.
 
