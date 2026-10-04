@@ -1,6 +1,6 @@
 # I Parked Here! — Privacy Policy
 
-**Last updated: 3 October 2026**
+**Last updated: 4 October 2026**
 
 ## In short
 
@@ -20,7 +20,7 @@ I Parked Here! is made by an independent developer. You can reach us at [dumpste
 
 Only one parking spot is ever kept: its map position and accuracy, the air-pressure reading and GPS height at that moment, the time it was saved, and whether you have walked away from the car since. It is kept in the app's private storage on your phone.
 
-It is deleted when you find your car (by tapping "Found it!", or when the app notices you are back at the car; "Undo" can bring it back for a few seconds), and also if you clear the app's data or uninstall it.
+It is deleted when you tap "Found it!" at your car ("Undo" can bring it back for a few seconds), and also if you clear the app's data or uninstall it.
 
 For achievements, the app also keeps a count of how many times you have found your car, and which achievement it showed last. These are only numbers, with no places or times, kept in the same private storage until you clear the app's data or uninstall it.
 
