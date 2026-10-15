@@ -1,6 +1,6 @@
 # I Parked Here! — Privacy Policy
 
-**Last updated: 4 October 2026**
+**Last updated: 15 October 2026**
 
 ## In short
 
@@ -23,6 +23,8 @@ It is deleted when you tap "Found it!" at your car ("Undo" can bring it back for
 
 For achievements, the app also keeps a count of how many times you have found your car, and which achievement it showed last. These are only numbers, with no places or times, kept in the same private storage until you clear the app's data or uninstall it.
 
+The app also remembers a few settings there: whether to show the help cards when it opens, and for each tip, how many times it has been shown and whether you have used the button it points to. These hold no places or times either.
+
 ## What leaves your phone
 
 Your parking spot and your GPS location never leave your phone. To draw the map, the app downloads map images ("tiles") from OpenStreetMap's tile servers, run by the OpenStreetMap Foundation, and the Leaflet map library from the unpkg.com service. As with visiting any website, those services receive your phone's IP address and which map tiles are requested, which reveals the general area being shown on the map. Their own privacy policies apply, for example <https://osmfoundation.org/wiki/Privacy_Policy>.
@@ -30,6 +32,8 @@ Your parking spot and your GPS location never leave your phone. To draw the map,
 The app contains no analytics or crash-reporting tools of its own. Advertising is the only other thing that talks to the internet; see the next section.
 
 If you tap "Share" on an achievement, the app makes a picture of it and hands the picture and a short message (with a link to the app's store page) to the app you choose, such as WhatsApp or Facebook. Nothing is sent unless you choose to share it, and it goes only where you send it; that app's own privacy policy then applies.
+
+From time to time, after you find your car, Google Play's own "Rate this app" card may appear. It is shown by Google Play, not by the app: the app never sees your rating or review, and anything you write there is handled by Google under its privacy policy.
 
 ## Advertising
 
