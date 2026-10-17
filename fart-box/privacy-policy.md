@@ -1,6 +1,6 @@
 # Fart Box — Privacy Policy
 
-**Last updated: 29 September 2026**
+**Last updated: 15 October 2026**
 
 Fart Box has no account, no sign-in, and no server of its own. Nothing you do
 in the app is sent to us, because there is no "us" to send it to.
@@ -36,10 +36,18 @@ saved as files.
 - **They are never uploaded.** The app has no server and no upload of any kind.
 - There is no way to send one to another person from inside the app. This is
   deliberate, not an oversight.
-- Holding a slot deletes that recording. Deleting the app deletes all of them.
+- Holding a slot asks whether to delete that recording. Deleting the app
+  deletes all of them.
 
 You control what gets recorded, because nothing records until you tap an empty
 slot, and it stops on its own after five seconds.
+
+## Farts you make
+
+The **Fart Generator** builds new sounds out of the app's own recordings, and
+you can save up to twenty of them. They are kept exactly like your recordings:
+in the app's private storage, never uploaded, with no way to send them from
+inside the app, and deleted along with the app.
 
 ## Advertising
 
@@ -81,10 +89,13 @@ everything, and nothing is copied to your Google Drive.
 
 ## Sharing
 
-When you share a sound or an achievement, the app hands a file or a line of
-text to your phone's own share sheet, and you choose where it goes. The app has
-no connection to any social network and learns nothing about what you did with
-it.
+You can share an achievement, or how your day is going, as a picture with a
+link to the app. The app hands them to your phone's own share sheet, and you
+choose where they go. The app has no connection to any social network and
+learns nothing about what you did with them.
+
+Sounds cannot be shared from the app: not the built-in ones, not your
+recordings, and not the farts you make.
 
 ## Children
 
