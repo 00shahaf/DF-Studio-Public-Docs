@@ -10,6 +10,7 @@ is the page the store is given.
 | --- | --- | --- |
 | Fart Box | Privacy policy | `fart-box/` |
 | I Parked Here! | Privacy policy | `i-parked-here/` |
+| Qibla | Privacy policy | `qibla/` |
 | Fart Box | Short address that forwards to the Play listing | `g/` |
 | I Parked Here! | Privacy policy | `i-parked-here/` |
 
