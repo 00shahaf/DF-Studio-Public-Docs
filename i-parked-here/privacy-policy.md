@@ -1,6 +1,6 @@
 # I Parked Here! — Privacy Policy
 
-**Last updated: 15 October 2026**
+**Last updated: 25 October 2026**
 
 ## In short
 
@@ -27,17 +27,19 @@ The app also remembers a few settings there: whether to show the help cards when
 
 ## What leaves your phone
 
-Your parking spot and your GPS location never leave your phone. To draw the map, the app downloads map images ("tiles") from OpenStreetMap's tile servers, run by the OpenStreetMap Foundation, and the Leaflet map library from the unpkg.com service. As with visiting any website, those services receive your phone's IP address and which map tiles are requested, which reveals the general area being shown on the map. Their own privacy policies apply, for example <https://osmfoundation.org/wiki/Privacy_Policy>.
+Your parking spot and your GPS location never leave your phone, but the map has to be downloaded. On phones with Google Play services, the map is Google Maps (Google's Maps SDK for Android). To draw it, Google receives your phone's IP address and which part of the map is being shown, which reveals the general area being viewed, and Google's map software also sends Google request and crash information, a pseudonymous identifier for the map software and, possibly, how the map is moved and zoomed, which Google uses to run and improve its services. Google's privacy policy applies: <https://policies.google.com/privacy>.
+
+On other phones, the app instead downloads map images ("tiles") from OpenStreetMap's tile servers, run by the OpenStreetMap Foundation, and the Leaflet map library from the unpkg.com service. As with visiting any website, those services receive your phone's IP address and which map tiles are requested, which reveals the general area being shown on the map. Their own privacy policies apply, for example <https://osmfoundation.org/wiki/Privacy_Policy>.
 
 The app contains no analytics or crash-reporting tools of its own. Advertising is the only other thing that talks to the internet; see the next section.
 
 If you tap "Share" on an achievement, the app makes a picture of it and hands the picture and a short message (with a link to the app's store page) to the app you choose, such as WhatsApp or Facebook. Nothing is sent unless you choose to share it, and it goes only where you send it; that app's own privacy policy then applies.
 
-From time to time, after you find your car, Google Play's own "Rate this app" card may appear. It is shown by Google Play, not by the app: the app never sees your rating or review, and anything you write there is handled by Google under its privacy policy.
+From time to time, after you find your car, the app asks whether you would like to rate it. "Rate the app" opens the app's Google Play page; the app never sees your rating or review, and anything you write there is handled by Google under its privacy policy.
 
 ## Advertising
 
-The app shows ads from Google AdMob (Google LLC, or Google Ireland Limited in the UK and EU): a banner at the top of the screen, and a video ad only if you choose to watch one after finding your car.
+The app shows ads from Google AdMob (Google LLC, or Google Ireland Limited in the UK and EU): a banner at the top of the screen.
 
 To show ads, measure them and prevent fraud, Google may collect your phone's advertising ID, your IP address and the approximate location that can be worked out from it, information about your device (such as model, operating system and language), and how you interact with the ads. The app does not give Google your GPS location or your parking spot.
 
