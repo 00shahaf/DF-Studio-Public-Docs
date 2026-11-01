@@ -1,6 +1,6 @@
 # I Parked Here! — Privacy Policy
 
-**Last updated: 25 October 2026**
+**Last updated: 1 November 2026**
 
 ## In short
 
@@ -14,10 +14,11 @@ I Parked Here! is made by an independent developer. You can reach us at [dumpste
 
 - Your precise location (GPS), only while the app is open on screen. It is used to save where you parked and to guide you back. The app never asks for or uses location in the background.
 - Whether you ticked "Don't show this again" on the tutorial.
+- The camera, only when you tap the photo button. The photo is saved in the app's private storage, never in your gallery, and never leaves your phone.
 
 ## What is stored, and for how long
 
-Only one parking spot is ever kept: its map position and accuracy, the time it was saved, and the floor number if you tapped one. It is kept in the app's private storage on your phone.
+Only one parking spot is ever kept: its map position and accuracy, the time it was saved, and the floor number and note if you added them, and the photo if you took one. It is kept in the app's private storage on your phone.
 
 It is deleted when you tap "Found it!" at your car ("Undo" can bring it back for a few seconds), and also if you clear the app's data or uninstall it.
 
