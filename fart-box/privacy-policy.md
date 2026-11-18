@@ -1,6 +1,6 @@
 # Fart Box — Privacy Policy
 
-**Last updated: 15 October 2026**
+**Last updated: 18 November 2026**
 
 Fart Box has no account, no sign-in, and no server of its own. Nothing you do
 in the app is sent to us, because there is no "us" to send it to.
@@ -24,6 +24,18 @@ replaced by the next one.
 
 The microphone is off unless one of those two features is switched on. Turning
 the feature off releases it immediately.
+
+## Camera
+
+**Ghost Farters** shows the camera's live view while you play it, so you can
+hunt for a cartoon ghost drawn over the picture.
+
+- The picture goes straight to the screen and nowhere else. **Nothing is
+  photographed, recorded or saved**, and nothing is sent anywhere.
+- The app does not look at what is in the picture. Farty's position comes from
+  how you turn the phone (its motion sensors), not from the camera.
+- The camera is only on while the Ghost Farters screen is open, and is
+  released when you leave it.
 
 ## Recording your own sounds
 
@@ -110,6 +122,7 @@ treatment of users it identifies as children.
 
 - Refuse the microphone permission, or withdraw it later in your phone's
   settings. Every other part of the app works without it.
+- Refuse the camera permission the same way. Only Ghost Farters needs it.
 - Delete any recording by holding its slot.
 - Reset or delete your Advertising ID in your phone's settings.
 - Uninstall the app, which removes everything it has stored.
