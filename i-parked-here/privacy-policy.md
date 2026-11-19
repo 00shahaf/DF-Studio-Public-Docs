@@ -1,6 +1,6 @@
 # I Parked Here! — Privacy Policy
 
-**Last updated: 1 November 2026**
+**Last updated: 19 November 2026**
 
 ## In short
 
@@ -28,7 +28,9 @@ The app also remembers a few settings there: whether to show the help cards when
 
 ## What leaves your phone
 
-Your parking spot and your GPS location never leave your phone, but the map has to be downloaded. On phones with Google Play services, the map is Google Maps (Google's Maps SDK for Android). To draw it, Google receives your phone's IP address and which part of the map is being shown, which reveals the general area being viewed, and Google's map software also sends Google request and crash information, a pseudonymous identifier for the map software and, possibly, how the map is moved and zoomed, which Google uses to run and improve its services. Google's privacy policy applies: <https://policies.google.com/privacy>.
+Your parking spot and your GPS location stay on your phone, except when you ask for a walking route (below), but the map has to be downloaded. On phones with Google Play services, the map is Google Maps (Google's Maps SDK for Android). To draw it, Google receives your phone's IP address and which part of the map is being shown, which reveals the general area being viewed, and Google's map software also sends Google request and crash information, a pseudonymous identifier for the map software and, possibly, how the map is moved and zoomed, which Google uses to run and improve its services. Google's privacy policy applies: <https://policies.google.com/privacy>.
+
+Walking route: only when you tap the route button, the app sends Google (Google's Routes API) your current location and your car's saved spot, so that Google can work out the walking route, distance and time, together with your phone's IP address, the app's name and the phone's language. While the route is showing, the app asks again if you leave the route or have walked a good part of it. Tap the button again and the app stops asking. Google handles this information under its own privacy policy, and we never receive it. The route button is only on phones that show Google Maps.
 
 On other phones, the app instead downloads map images ("tiles") from OpenStreetMap's tile servers, run by the OpenStreetMap Foundation, and the Leaflet map library from the unpkg.com service. As with visiting any website, those services receive your phone's IP address and which map tiles are requested, which reveals the general area being shown on the map. Their own privacy policies apply, for example <https://osmfoundation.org/wiki/Privacy_Policy>.
 
@@ -40,9 +42,9 @@ From time to time, after you find your car, the app asks whether you would like 
 
 ## Advertising
 
-The app shows ads from Google AdMob (Google LLC, or Google Ireland Limited in the UK and EU): a banner at the top of the screen.
+The app shows ads from Google AdMob (Google LLC, or Google Ireland Limited in the UK and EU): a banner at the top of the screen, and a full-screen ad that may play when you tap the walking-route button (at most once every few minutes).
 
-To show ads, measure them and prevent fraud, Google may collect your phone's advertising ID, your IP address and the approximate location that can be worked out from it, information about your device (such as model, operating system and language), and how you interact with the ads. The app does not give Google your GPS location or your parking spot.
+To show ads, measure them and prevent fraud, Google may collect your phone's advertising ID, your IP address and the approximate location that can be worked out from it, information about your device (such as model, operating system and language), and how you interact with the ads. The app does not give Google's ads your GPS location or your parking spot.
 
 In the UK, the European Economic Area, Switzerland and other places where the law requires it, the app asks for your consent before any ad is requested, using Google's consent form. You can change your choice at any time with "Ad privacy choices" at the bottom of the privacy policy screen in the app. In US states with privacy laws, such as California, ads may use this data unless you opt out: "Ad privacy choices" lets you choose "Don't sell or share my data", after which your data is no longer used for personalised ads. Wherever you live, you can reset or delete your advertising ID in your phone's settings (on Android: Settings > Privacy > Ads, or Settings > Google > Ads), which also turns off personalised ads.
 
@@ -50,7 +52,7 @@ Ads are limited to content suitable for general audiences. How Google uses this 
 
 ## Sharing and selling
 
-We do not sell or rent personal data, and we don't receive any ourselves. The only data shared with a third party is what Google AdMob collects to show ads, described under Advertising.
+We do not sell or rent personal data, and we don't receive any ourselves. Data goes to a third party only as described above: to Google to draw the map and work out a walking route you ask for, and what Google AdMob collects to show ads, described under Advertising.
 
 ## Children
 
